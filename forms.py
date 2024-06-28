@@ -12,7 +12,6 @@ from wtforms import(
 
 from wtforms.validators import (
     DataRequired,
-    
 )
 
 
